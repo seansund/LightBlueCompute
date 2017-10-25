@@ -1,7 +1,7 @@
 #!/bin/bash
 
 base_origin=https://github.com/seansund
-modules="LightBlueCompute-catalog-ms;LightBlueCompute-orders-ms;LightBlueCompute-customer-ms;LightBlueCompute-inventory-ms"
+modules="LightBlueCompute-catalog-ms;LightBlueCompute-orders-ms;LightBlueCompute-customer-ms;LightBlueCompute-inventory-ms;LightBlueCompute-web"
 IFS=';' tokens=( $modules )
 
 mkdir modules
