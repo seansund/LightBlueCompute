@@ -7,3 +7,4 @@
 * [customer-ms](https://github.com/seansund/LightBlueCompute-customer-ms)
 * [inventory-ms](https://github.com/seansund/LightBlueCompute-inventory-ms)
 * [web](https://github.com/seansund/LightBlueCompute-web)
+* [angular5-web (wip)](https://github.com/seansund/LightBueCompute-web-angular5)
